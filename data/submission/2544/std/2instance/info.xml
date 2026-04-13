@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testinfo>
+  <name>std_dequeue_1tc_2instance</name>
+  <ixncfg>std_dequeue_1tc_2instance.ixncfg</ixncfg>
+  <manifestId>DataPlaneTestProvider.Rfc2544Tput</manifestId>
+</testinfo>

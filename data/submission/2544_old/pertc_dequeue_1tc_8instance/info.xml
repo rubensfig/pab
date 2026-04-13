@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testinfo>
+  <name>pertc_dequeue_1tc_8instance</name>
+  <ixncfg>pertc_dequeue_1tc_8instance.ixncfg</ixncfg>
+  <manifestId>DataPlaneTestProvider.Rfc2544Tput</manifestId>
+</testinfo>

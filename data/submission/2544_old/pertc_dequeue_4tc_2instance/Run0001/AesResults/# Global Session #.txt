@@ -1,0 +1,229 @@
+12-27-25 10:09:16 INFO 0 Starting Apply Config execution. 
+12-27-25 10:10:08 INFO 0 Starting loop LoopId=trials, InitialValue=1, MaxValue=3, IncrementStep=1 
+12-27-25 10:10:08 INFO 0 LoopId: trials, current loop value 1. 
+12-27-25 10:10:09 INFO 0 Starting loop LoopId=framesizes, Values=[64,128,256,512,1024,1280,1518]. 
+12-27-25 10:10:09 INFO 0 LoopId: framesizes, current loop value 64. 
+12-27-25 10:10:15 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 10:10:15 INFO 0 Starting Loop iteration. 
+12-27-25 10:11:25 INFO 0 Starting Loop iteration. 
+12-27-25 10:12:35 INFO 0 Starting Loop iteration. 
+12-27-25 10:13:46 INFO 0 Starting Loop iteration. 
+12-27-25 10:14:56 INFO 0 Starting Loop iteration. 
+12-27-25 10:16:07 INFO 0 Starting Loop iteration. 
+12-27-25 10:17:17 INFO 0 Starting Loop iteration. 
+12-27-25 10:18:28 INFO 0 Starting Loop iteration. 
+12-27-25 10:19:38 INFO 0 LoopId: framesizes, current loop value 128. 
+12-27-25 10:19:40 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 10:19:40 INFO 0 Starting Loop iteration. 
+12-27-25 10:20:50 INFO 0 Starting Loop iteration. 
+12-27-25 10:22:01 INFO 0 Starting Loop iteration. 
+12-27-25 10:23:11 INFO 0 Starting Loop iteration. 
+12-27-25 10:24:21 INFO 0 Starting Loop iteration. 
+12-27-25 10:25:32 INFO 0 Starting Loop iteration. 
+12-27-25 10:26:42 INFO 0 Starting Loop iteration. 
+12-27-25 10:27:53 INFO 0 Starting Loop iteration. 
+12-27-25 10:29:03 INFO 0 LoopId: framesizes, current loop value 256. 
+12-27-25 10:29:05 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 10:29:05 INFO 0 Starting Loop iteration. 
+12-27-25 10:30:15 INFO 0 Starting Loop iteration. 
+12-27-25 10:31:26 INFO 0 Starting Loop iteration. 
+12-27-25 10:32:36 INFO 0 Starting Loop iteration. 
+12-27-25 10:33:46 INFO 0 Starting Loop iteration. 
+12-27-25 10:34:57 INFO 0 Starting Loop iteration. 
+12-27-25 10:36:07 INFO 0 Starting Loop iteration. 
+12-27-25 10:37:18 INFO 0 Starting Loop iteration. 
+12-27-25 10:38:28 INFO 0 LoopId: framesizes, current loop value 512. 
+12-27-25 10:38:29 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 10:38:29 INFO 0 Starting Loop iteration. 
+12-27-25 10:39:40 INFO 0 Starting Loop iteration. 
+12-27-25 10:40:51 INFO 0 Starting Loop iteration. 
+12-27-25 10:42:01 INFO 0 Starting Loop iteration. 
+12-27-25 10:43:11 INFO 0 Starting Loop iteration. 
+12-27-25 10:44:21 INFO 0 Starting Loop iteration. 
+12-27-25 10:45:32 INFO 0 Starting Loop iteration. 
+12-27-25 10:46:42 INFO 0 Starting Loop iteration. 
+12-27-25 10:47:53 INFO 0 LoopId: framesizes, current loop value 1024. 
+12-27-25 10:47:54 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 10:47:54 INFO 0 Starting Loop iteration. 
+12-27-25 10:49:04 INFO 0 Starting Loop iteration. 
+12-27-25 10:50:15 INFO 0 Starting Loop iteration. 
+12-27-25 10:51:25 INFO 0 Starting Loop iteration. 
+12-27-25 10:52:36 INFO 0 Starting Loop iteration. 
+12-27-25 10:53:46 INFO 0 Starting Loop iteration. 
+12-27-25 10:54:56 INFO 0 Starting Loop iteration. 
+12-27-25 10:56:07 INFO 0 Starting Loop iteration. 
+12-27-25 10:57:17 INFO 0 Starting Loop iteration. 
+12-27-25 10:58:28 INFO 0 LoopId: framesizes, current loop value 1280. 
+12-27-25 10:58:29 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 10:58:29 INFO 0 Starting Loop iteration. 
+12-27-25 10:59:40 INFO 0 Starting Loop iteration. 
+12-27-25 11:00:50 INFO 0 Starting Loop iteration. 
+12-27-25 11:02:00 INFO 0 Starting Loop iteration. 
+12-27-25 11:03:11 INFO 0 Starting Loop iteration. 
+12-27-25 11:04:21 INFO 0 Starting Loop iteration. 
+12-27-25 11:05:31 INFO 0 Starting Loop iteration. 
+12-27-25 11:06:42 INFO 0 Starting Loop iteration. 
+12-27-25 11:07:52 INFO 0 Starting Loop iteration. 
+12-27-25 11:09:03 INFO 0 LoopId: framesizes, current loop value 1518. 
+12-27-25 11:09:04 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 11:09:04 INFO 0 Starting Loop iteration. 
+12-27-25 11:10:15 INFO 0 Starting Loop iteration. 
+12-27-25 11:11:27 INFO 0 Starting Loop iteration. 
+12-27-25 11:12:37 INFO 0 Starting Loop iteration. 
+12-27-25 11:13:47 INFO 0 Starting Loop iteration. 
+12-27-25 11:14:58 INFO 0 Starting Loop iteration. 
+12-27-25 11:16:08 INFO 0 Starting Loop iteration. 
+12-27-25 11:17:18 INFO 0 Starting Loop iteration. 
+12-27-25 11:18:29 INFO 0 Starting Loop iteration. 
+12-27-25 11:19:40 INFO 0 LoopId: trials, current loop value 2. 
+12-27-25 11:19:40 INFO 0 Starting loop LoopId=framesizes, Values=[64,128,256,512,1024,1280,1518]. 
+12-27-25 11:19:40 INFO 0 LoopId: framesizes, current loop value 64. 
+12-27-25 11:19:41 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 11:19:41 INFO 0 Starting Loop iteration. 
+12-27-25 11:20:52 INFO 0 Starting Loop iteration. 
+12-27-25 11:22:02 INFO 0 Starting Loop iteration. 
+12-27-25 11:23:12 INFO 0 Starting Loop iteration. 
+12-27-25 11:24:23 INFO 0 Starting Loop iteration. 
+12-27-25 11:25:33 INFO 0 Starting Loop iteration. 
+12-27-25 11:26:43 INFO 0 Starting Loop iteration. 
+12-27-25 11:27:54 INFO 0 Starting Loop iteration. 
+12-27-25 11:29:04 INFO 0 LoopId: framesizes, current loop value 128. 
+12-27-25 11:29:05 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 11:29:05 INFO 0 Starting Loop iteration. 
+12-27-25 11:30:16 INFO 0 Starting Loop iteration. 
+12-27-25 11:31:26 INFO 0 Starting Loop iteration. 
+12-27-25 11:32:36 INFO 0 Starting Loop iteration. 
+12-27-25 11:33:47 INFO 0 Starting Loop iteration. 
+12-27-25 11:34:57 INFO 0 Starting Loop iteration. 
+12-27-25 11:36:07 INFO 0 Starting Loop iteration. 
+12-27-25 11:37:18 INFO 0 Starting Loop iteration. 
+12-27-25 11:38:29 INFO 0 LoopId: framesizes, current loop value 256. 
+12-27-25 11:38:30 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 11:38:30 INFO 0 Starting Loop iteration. 
+12-27-25 11:39:40 INFO 0 Starting Loop iteration. 
+12-27-25 11:40:51 INFO 0 Starting Loop iteration. 
+12-27-25 11:42:01 INFO 0 Starting Loop iteration. 
+12-27-25 11:43:11 INFO 0 Starting Loop iteration. 
+12-27-25 11:44:21 INFO 0 Starting Loop iteration. 
+12-27-25 11:45:32 INFO 0 Starting Loop iteration. 
+12-27-25 11:46:42 INFO 0 Starting Loop iteration. 
+12-27-25 11:47:53 INFO 0 LoopId: framesizes, current loop value 512. 
+12-27-25 11:47:54 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 11:47:54 INFO 0 Starting Loop iteration. 
+12-27-25 11:49:04 INFO 0 Starting Loop iteration. 
+12-27-25 11:50:14 INFO 0 Starting Loop iteration. 
+12-27-25 11:51:25 INFO 0 Starting Loop iteration. 
+12-27-25 11:52:35 INFO 0 Starting Loop iteration. 
+12-27-25 11:53:46 INFO 0 Starting Loop iteration. 
+12-27-25 11:54:56 INFO 0 Starting Loop iteration. 
+12-27-25 11:56:06 INFO 0 Starting Loop iteration. 
+12-27-25 11:57:17 INFO 0 LoopId: framesizes, current loop value 1024. 
+12-27-25 11:57:18 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 11:57:18 INFO 0 Starting Loop iteration. 
+12-27-25 11:58:29 INFO 0 Starting Loop iteration. 
+12-27-25 11:59:39 INFO 0 Starting Loop iteration. 
+12-27-25 12:00:49 INFO 0 Starting Loop iteration. 
+12-27-25 12:02:00 INFO 0 Starting Loop iteration. 
+12-27-25 12:03:10 INFO 0 Starting Loop iteration. 
+12-27-25 12:04:21 INFO 0 Starting Loop iteration. 
+12-27-25 12:05:31 INFO 0 Starting Loop iteration. 
+12-27-25 12:06:41 INFO 0 Starting Loop iteration. 
+12-27-25 12:07:52 INFO 0 LoopId: framesizes, current loop value 1280. 
+12-27-25 12:07:53 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 12:07:53 INFO 0 Starting Loop iteration. 
+12-27-25 12:09:02 INFO 0 Starting Loop iteration. 
+12-27-25 12:10:13 INFO 0 Starting Loop iteration. 
+12-27-25 12:11:23 INFO 0 Starting Loop iteration. 
+12-27-25 12:12:33 INFO 0 Starting Loop iteration. 
+12-27-25 12:13:44 INFO 0 Starting Loop iteration. 
+12-27-25 12:14:54 INFO 0 Starting Loop iteration. 
+12-27-25 12:16:04 INFO 0 Starting Loop iteration. 
+12-27-25 12:17:15 INFO 0 Starting Loop iteration. 
+12-27-25 12:18:24 INFO 0 LoopId: framesizes, current loop value 1518. 
+12-27-25 12:18:26 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 12:18:26 INFO 0 Starting Loop iteration. 
+12-27-25 12:19:36 INFO 0 Starting Loop iteration. 
+12-27-25 12:20:46 INFO 0 Starting Loop iteration. 
+12-27-25 12:21:57 INFO 0 Starting Loop iteration. 
+12-27-25 12:23:07 INFO 0 Starting Loop iteration. 
+12-27-25 12:24:17 INFO 0 Starting Loop iteration. 
+12-27-25 12:25:28 INFO 0 Starting Loop iteration. 
+12-27-25 12:26:38 INFO 0 Starting Loop iteration. 
+12-27-25 12:27:48 INFO 0 Starting Loop iteration. 
+12-27-25 12:28:59 INFO 0 LoopId: trials, current loop value 3. 
+12-27-25 12:28:59 INFO 0 Starting loop LoopId=framesizes, Values=[64,128,256,512,1024,1280,1518]. 
+12-27-25 12:28:59 INFO 0 LoopId: framesizes, current loop value 64. 
+12-27-25 12:29:01 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 12:29:01 INFO 0 Starting Loop iteration. 
+12-27-25 12:30:11 INFO 0 Starting Loop iteration. 
+12-27-25 12:31:21 INFO 0 Starting Loop iteration. 
+12-27-25 12:32:31 INFO 0 Starting Loop iteration. 
+12-27-25 12:33:41 INFO 0 Starting Loop iteration. 
+12-27-25 12:34:51 INFO 0 Starting Loop iteration. 
+12-27-25 12:36:02 INFO 0 Starting Loop iteration. 
+12-27-25 12:37:12 INFO 0 Starting Loop iteration. 
+12-27-25 12:38:23 INFO 0 LoopId: framesizes, current loop value 128. 
+12-27-25 12:38:24 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 12:38:24 INFO 0 Starting Loop iteration. 
+12-27-25 12:39:35 INFO 0 Starting Loop iteration. 
+12-27-25 12:40:45 INFO 0 Starting Loop iteration. 
+12-27-25 12:41:55 INFO 0 Starting Loop iteration. 
+12-27-25 12:43:05 INFO 0 Starting Loop iteration. 
+12-27-25 12:44:15 INFO 0 Starting Loop iteration. 
+12-27-25 12:45:26 INFO 0 Starting Loop iteration. 
+12-27-25 12:46:36 INFO 0 Starting Loop iteration. 
+12-27-25 12:47:47 INFO 0 LoopId: framesizes, current loop value 256. 
+12-27-25 12:47:48 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 12:47:48 INFO 0 Starting Loop iteration. 
+12-27-25 12:48:59 INFO 0 Starting Loop iteration. 
+12-27-25 12:50:09 INFO 0 Starting Loop iteration. 
+12-27-25 12:51:19 INFO 0 Starting Loop iteration. 
+12-27-25 12:52:29 INFO 0 Starting Loop iteration. 
+12-27-25 12:53:40 INFO 0 Starting Loop iteration. 
+12-27-25 12:54:50 INFO 0 Starting Loop iteration. 
+12-27-25 12:56:00 INFO 0 Starting Loop iteration. 
+12-27-25 12:57:11 INFO 0 LoopId: framesizes, current loop value 512. 
+12-27-25 12:57:12 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 12:57:12 INFO 0 Starting Loop iteration. 
+12-27-25 12:58:23 INFO 0 Starting Loop iteration. 
+12-27-25 12:59:33 INFO 0 Starting Loop iteration. 
+12-27-25 13:00:44 INFO 0 Starting Loop iteration. 
+12-27-25 13:01:54 INFO 0 Starting Loop iteration. 
+12-27-25 13:03:05 INFO 0 Starting Loop iteration. 
+12-27-25 13:04:15 INFO 0 Starting Loop iteration. 
+12-27-25 13:05:26 INFO 0 Starting Loop iteration. 
+12-27-25 13:06:36 INFO 0 LoopId: framesizes, current loop value 1024. 
+12-27-25 13:06:37 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 13:06:37 INFO 0 Starting Loop iteration. 
+12-27-25 13:07:48 INFO 0 Starting Loop iteration. 
+12-27-25 13:08:58 INFO 0 Starting Loop iteration. 
+12-27-25 13:10:09 INFO 0 Starting Loop iteration. 
+12-27-25 13:11:19 INFO 0 Starting Loop iteration. 
+12-27-25 13:12:30 INFO 0 Starting Loop iteration. 
+12-27-25 13:13:40 INFO 0 Starting Loop iteration. 
+12-27-25 13:14:51 INFO 0 Starting Loop iteration. 
+12-27-25 13:16:01 INFO 0 Starting Loop iteration. 
+12-27-25 13:17:12 INFO 0 LoopId: framesizes, current loop value 1280. 
+12-27-25 13:17:13 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 13:17:13 INFO 0 Starting Loop iteration. 
+12-27-25 13:18:24 INFO 0 Starting Loop iteration. 
+12-27-25 13:19:34 INFO 0 Starting Loop iteration. 
+12-27-25 13:20:44 INFO 0 Starting Loop iteration. 
+12-27-25 13:21:55 INFO 0 Starting Loop iteration. 
+12-27-25 13:23:05 INFO 0 Starting Loop iteration. 
+12-27-25 13:24:16 INFO 0 Starting Loop iteration. 
+12-27-25 13:25:26 INFO 0 Starting Loop iteration. 
+12-27-25 13:26:36 INFO 0 Starting Loop iteration. 
+12-27-25 13:27:47 INFO 0 LoopId: framesizes, current loop value 1518. 
+12-27-25 13:27:48 INFO 0 Starting loop Ixia.QuickTests.Core.Composer.LoopControl.Execution.BinaryLoopEngine 
+12-27-25 13:27:48 INFO 0 Starting Loop iteration. 
+12-27-25 13:28:59 INFO 0 Starting Loop iteration. 
+12-27-25 13:30:09 INFO 0 Starting Loop iteration. 
+12-27-25 13:31:19 INFO 0 Starting Loop iteration. 
+12-27-25 13:32:30 INFO 0 Starting Loop iteration. 
+12-27-25 13:33:40 INFO 0 Starting Loop iteration. 
+12-27-25 13:34:51 INFO 0 Starting Loop iteration. 
+12-27-25 13:36:01 INFO 0 Starting Loop iteration. 
+12-27-25 13:37:11 INFO 0 Starting Loop iteration. 
+12-27-25 13:38:22 INFO 0 LoopId: trials, current loop value 4. 
+12-27-25 13:38:22 INFO 0 The composer test run ended 

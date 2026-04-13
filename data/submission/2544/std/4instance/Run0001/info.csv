@@ -1,0 +1,2 @@
+Test Suite,Test Name Str,Product Name,Version Number,Serial Number,Comments,UserName,Date,Time,Number of Trials Executed,Number of Trials Passed,Stream Duration (s),Test Duration,Customer,Calculate Latency,Latency Type
+RFC2544,Throughput/Latency,Your switch/router name here,Your firmware version here,Your switch/router serial number here,,,01/14/26,15:04:55,3,N/A,59,03:32:14,,True,Cut Through

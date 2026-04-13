@@ -1,0 +1,6 @@
+# started on Wed Apr  8 15:11:45 2026
+
+27838128870;;instructions;0.03%;5005122713;100.00;2.53;insn per cycle
+11010637160;;cpu-cycles;0.00%;5005122030;100.00;;
+22862988;;cache-misses;0.04%;5005121590;100.00;33.50;of all cache refs
+68247959;;cache-references;0.02%;5005120195;100.00;;

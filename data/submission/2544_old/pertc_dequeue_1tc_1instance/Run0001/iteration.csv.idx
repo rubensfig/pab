@@ -1,0 +1,176 @@
+[VER=1.1]
+ColumnCount=19
+DecimalPrecision=3
+Trial=System.String
+Framesize=System.String
+Iteration=System.String
+Tx Port=System.String
+Rx Port=System.String
+Traffic Item=System.String
+IPv4 :Raw priority=System.String
+Flow Group=System.String
+Tx Rate (% Line Rate)=System.Double
+Rx Throughput (% Line Rate)=System.Double
+Rx Throughput (fps)=System.Double
+Rx Throughput (Mbps)=System.Double
+Tx Count (frames)=System.Int64
+Rx Count (frames)=System.Int64
+Frame Loss (frames)=System.Int64
+Frame Loss (%)=System.Double
+Min Latency (ns)=System.Int64
+Max Latency (ns)=System.Int64
+Avg Latency (ns)=System.Int64
+Framesize=72?Iteration=1?Trial=1><0/1/299/477
+Framesize=72?Iteration=2?Trial=1><1/2/477/641
+Framesize=72?Iteration=3?Trial=1><2/3/641/813
+Framesize=72?Iteration=4?Trial=1><3/4/813/986
+Framesize=72?Iteration=5?Trial=1><4/5/986/1150
+Framesize=128?Iteration=1?Trial=1><5/6/1150/1323
+Framesize=128?Iteration=2?Trial=1><6/7/1323/1487
+Framesize=128?Iteration=3?Trial=1><7/8/1487/1651
+Framesize=128?Iteration=4?Trial=1><8/9/1651/1816
+Framesize=128?Iteration=5?Trial=1><9/10/1816/1986
+Framesize=256?Iteration=1?Trial=1><10/11/1986/2152
+Framesize=256?Iteration=2?Trial=1><11/12/2152/2335
+Framesize=256?Iteration=3?Trial=1><12/13/2335/2518
+Framesize=256?Iteration=4?Trial=1><13/14/2518/2695
+Framesize=256?Iteration=5?Trial=1><14/15/2695/2863
+Framesize=256?Iteration=6?Trial=1><15/16/2863/3038
+Framesize=256?Iteration=7?Trial=1><16/17/3038/3206
+Framesize=256?Iteration=8?Trial=1><17/18/3206/3374
+Framesize=512?Iteration=1?Trial=1><18/19/3374/3541
+Framesize=512?Iteration=2?Trial=1><19/20/3541/3722
+Framesize=512?Iteration=3?Trial=1><20/21/3722/3890
+Framesize=512?Iteration=4?Trial=1><21/22/3890/4067
+Framesize=512?Iteration=5?Trial=1><22/23/4067/4244
+Framesize=512?Iteration=6?Trial=1><23/24/4244/4419
+Framesize=512?Iteration=7?Trial=1><24/25/4419/4592
+Framesize=512?Iteration=8?Trial=1><25/26/4592/4760
+Framesize=1024?Iteration=1?Trial=1><26/27/4760/4925
+Framesize=1024?Iteration=2?Trial=1><27/28/4925/5093
+Framesize=1024?Iteration=3?Trial=1><28/29/5093/5271
+Framesize=1024?Iteration=4?Trial=1><29/30/5271/5447
+Framesize=1024?Iteration=5?Trial=1><30/31/5447/5616
+Framesize=1024?Iteration=6?Trial=1><31/32/5616/5785
+Framesize=1024?Iteration=7?Trial=1><32/33/5785/5954
+Framesize=1024?Iteration=8?Trial=1><33/34/5954/6123
+Framesize=1280?Iteration=1?Trial=1><34/35/6123/6287
+Framesize=1280?Iteration=2?Trial=1><35/36/6287/6455
+Framesize=1280?Iteration=3?Trial=1><36/37/6455/6624
+Framesize=1280?Iteration=4?Trial=1><37/38/6624/6802
+Framesize=1280?Iteration=5?Trial=1><38/39/6802/6978
+Framesize=1280?Iteration=6?Trial=1><39/40/6978/7147
+Framesize=1280?Iteration=7?Trial=1><40/41/7147/7316
+Framesize=1280?Iteration=8?Trial=1><41/42/7316/7492
+Framesize=1518?Iteration=1?Trial=1><42/43/7492/7656
+Framesize=1518?Iteration=2?Trial=1><43/44/7656/7824
+Framesize=1518?Iteration=3?Trial=1><44/45/7824/7992
+Framesize=1518?Iteration=4?Trial=1><45/46/7992/8161
+Framesize=1518?Iteration=5?Trial=1><46/47/8161/8330
+Framesize=1518?Iteration=6?Trial=1><47/48/8330/8511
+Framesize=1518?Iteration=7?Trial=1><48/49/8511/8680
+Framesize=1518?Iteration=8?Trial=1><49/50/8680/8849
+Framesize=72?Iteration=1?Trial=2><50/51/8849/9025
+Framesize=72?Iteration=2?Trial=2><51/52/9025/9189
+Framesize=72?Iteration=3?Trial=2><52/53/9189/9361
+Framesize=72?Iteration=4?Trial=2><53/54/9361/9534
+Framesize=72?Iteration=5?Trial=2><54/55/9534/9703
+Framesize=128?Iteration=1?Trial=2><55/56/9703/9876
+Framesize=128?Iteration=2?Trial=2><56/57/9876/10040
+Framesize=128?Iteration=3?Trial=2><57/58/10040/10204
+Framesize=128?Iteration=4?Trial=2><58/59/10204/10368
+Framesize=128?Iteration=5?Trial=2><59/60/10368/10533
+Framesize=256?Iteration=1?Trial=2><60/61/10533/10699
+Framesize=256?Iteration=2?Trial=2><61/62/10699/10883
+Framesize=256?Iteration=3?Trial=2><62/63/10883/11066
+Framesize=256?Iteration=4?Trial=2><63/64/11066/11243
+Framesize=256?Iteration=5?Trial=2><64/65/11243/11410
+Framesize=256?Iteration=6?Trial=2><65/66/11410/11585
+Framesize=256?Iteration=7?Trial=2><66/67/11585/11753
+Framesize=256?Iteration=8?Trial=2><67/68/11753/11921
+Framesize=512?Iteration=1?Trial=2><68/69/11921/12087
+Framesize=512?Iteration=2?Trial=2><69/70/12087/12268
+Framesize=512?Iteration=3?Trial=2><70/71/12268/12436
+Framesize=512?Iteration=4?Trial=2><71/72/12436/12612
+Framesize=512?Iteration=5?Trial=2><72/73/12612/12789
+Framesize=512?Iteration=6?Trial=2><73/74/12789/12964
+Framesize=512?Iteration=7?Trial=2><74/75/12964/13132
+Framesize=512?Iteration=8?Trial=2><75/76/13132/13300
+Framesize=1024?Iteration=1?Trial=2><76/77/13300/13465
+Framesize=1024?Iteration=2?Trial=2><77/78/13465/13633
+Framesize=1024?Iteration=3?Trial=2><78/79/13633/13811
+Framesize=1024?Iteration=4?Trial=2><79/80/13811/13987
+Framesize=1024?Iteration=5?Trial=2><80/81/13987/14155
+Framesize=1024?Iteration=6?Trial=2><81/82/14155/14324
+Framesize=1024?Iteration=7?Trial=2><82/83/14324/14493
+Framesize=1024?Iteration=8?Trial=2><83/84/14493/14662
+Framesize=1280?Iteration=1?Trial=2><84/85/14662/14826
+Framesize=1280?Iteration=2?Trial=2><85/86/14826/14995
+Framesize=1280?Iteration=3?Trial=2><86/87/14995/15164
+Framesize=1280?Iteration=4?Trial=2><87/88/15164/15342
+Framesize=1280?Iteration=5?Trial=2><88/89/15342/15518
+Framesize=1280?Iteration=6?Trial=2><89/90/15518/15687
+Framesize=1280?Iteration=7?Trial=2><90/91/15687/15856
+Framesize=1280?Iteration=8?Trial=2><91/92/15856/16031
+Framesize=1518?Iteration=1?Trial=2><92/93/16031/16195
+Framesize=1518?Iteration=2?Trial=2><93/94/16195/16363
+Framesize=1518?Iteration=3?Trial=2><94/95/16363/16531
+Framesize=1518?Iteration=4?Trial=2><95/96/16531/16700
+Framesize=1518?Iteration=5?Trial=2><96/97/16700/16869
+Framesize=1518?Iteration=6?Trial=2><97/98/16869/17038
+Framesize=1518?Iteration=7?Trial=2><98/99/17038/17217
+Framesize=1518?Iteration=8?Trial=2><99/100/17217/17386
+Framesize=72?Iteration=1?Trial=3><100/101/17386/17562
+Framesize=72?Iteration=2?Trial=3><101/102/17562/17725
+Framesize=72?Iteration=3?Trial=3><102/103/17725/17897
+Framesize=72?Iteration=4?Trial=3><103/104/17897/18069
+Framesize=72?Iteration=5?Trial=3><104/105/18069/18232
+Framesize=128?Iteration=1?Trial=3><105/106/18232/18399
+Framesize=128?Iteration=2?Trial=3><106/107/18399/18580
+Framesize=128?Iteration=3?Trial=3><107/108/18580/18761
+Framesize=128?Iteration=4?Trial=3><108/109/18761/18942
+Framesize=128?Iteration=5?Trial=3><109/110/18942/19121
+Framesize=128?Iteration=6?Trial=3><110/111/19121/19298
+Framesize=128?Iteration=7?Trial=3><111/112/19298/19473
+Framesize=128?Iteration=8?Trial=3><112/113/19473/19648
+Framesize=256?Iteration=1?Trial=3><113/114/19648/19814
+Framesize=256?Iteration=2?Trial=3><114/115/19814/19995
+Framesize=256?Iteration=3?Trial=3><115/116/19995/20174
+Framesize=256?Iteration=4?Trial=3><116/117/20174/20350
+Framesize=256?Iteration=5?Trial=3><117/118/20350/20517
+Framesize=256?Iteration=6?Trial=3><118/119/20517/20684
+Framesize=256?Iteration=7?Trial=3><119/120/20684/20860
+Framesize=256?Iteration=8?Trial=3><120/121/20860/21028
+Framesize=512?Iteration=1?Trial=3><121/122/21028/21194
+Framesize=512?Iteration=2?Trial=3><122/123/21194/21373
+Framesize=512?Iteration=3?Trial=3><123/124/21373/21540
+Framesize=512?Iteration=4?Trial=3><124/125/21540/21716
+Framesize=512?Iteration=5?Trial=3><125/126/21716/21892
+Framesize=512?Iteration=6?Trial=3><126/127/21892/22060
+Framesize=512?Iteration=7?Trial=3><127/128/22060/22228
+Framesize=512?Iteration=8?Trial=3><128/129/22228/22396
+Framesize=1024?Iteration=1?Trial=3><129/130/22396/22561
+Framesize=1024?Iteration=2?Trial=3><130/131/22561/22729
+Framesize=1024?Iteration=3?Trial=3><131/132/22729/22906
+Framesize=1024?Iteration=4?Trial=3><132/133/22906/23074
+Framesize=1024?Iteration=5?Trial=3><133/134/23074/23243
+Framesize=1024?Iteration=6?Trial=3><134/135/23243/23420
+Framesize=1024?Iteration=7?Trial=3><135/136/23420/23589
+Framesize=1024?Iteration=8?Trial=3><136/137/23589/23758
+Framesize=1280?Iteration=1?Trial=3><137/138/23758/23922
+Framesize=1280?Iteration=2?Trial=3><138/139/23922/24090
+Framesize=1280?Iteration=3?Trial=3><139/140/24090/24258
+Framesize=1280?Iteration=4?Trial=3><140/141/24258/24427
+Framesize=1280?Iteration=5?Trial=3><141/142/24427/24604
+Framesize=1280?Iteration=6?Trial=3><142/143/24604/24773
+Framesize=1280?Iteration=7?Trial=3><143/144/24773/24950
+Framesize=1280?Iteration=8?Trial=3><144/145/24950/25120
+Framesize=1518?Iteration=1?Trial=3><145/146/25120/25284
+Framesize=1518?Iteration=2?Trial=3><146/147/25284/25452
+Framesize=1518?Iteration=3?Trial=3><147/148/25452/25620
+Framesize=1518?Iteration=4?Trial=3><148/149/25620/25788
+Framesize=1518?Iteration=5?Trial=3><149/150/25788/25956
+Framesize=1518?Iteration=6?Trial=3><150/151/25956/26124
+Framesize=1518?Iteration=7?Trial=3><151/152/26124/26293
+Framesize=1518?Iteration=8?Trial=3><152/153/26293/26462
+Framesize=1518?Iteration=9?Trial=3><153/154/26462/26633

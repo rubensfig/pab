@@ -1,0 +1,5 @@
+Tx Port,Rx Port,Traffic Item,IPv4 :Raw priority,Flow Group,Tx Rate (% Line Rate),Rx Throughput (% Line Rate),Rx Throughput (fps),Rx Throughput (Mbps),Tx Count (frames),Rx Count (frames),Frame Loss (frames),Frame Loss (%),Min Latency (ns),Max Latency (ns),Avg Latency (ns),RxPortPath
+Port 1,Port 1,HQoS Traffic,0x1,HQoS Traffic-cpu0-flow0-lp - Flow Group 0001,25.0000000,25.0000000,2031859.2057386,24674.8981945,119879714,119879714,0,0.0000000,34035,63320,44396,172.30.20.132/Card05/Port13
+Port 1,Port 1,HQoS Traffic,0x1,HQoS Traffic-cpu1-flow0-lp - Flow Group 0001,25.0000000,25.0000000,2031859.2115242,24674.8982648,119879714,119879714,0,0.0000000,34447,96617,44119,172.30.20.132/Card05/Port13
+Port 1,Port 1,HQoS Traffic,0x1,HQoS Traffic-cpu2-flow0-lp - Flow Group 0001,25.0000000,25.0000000,2031859.2503362,24674.8987361,119879714,119879714,0,0.0000000,34955,65730,44120,172.30.20.132/Card05/Port13
+Port 1,Port 1,HQoS Traffic,0x1,HQoS Traffic-cpu3-flow0-lp - Flow Group 0001,25.0000000,25.0000000,2031859.2588424,24674.8988394,119879714,119879714,0,0.0000000,34702,63372,44732,172.30.20.132/Card05/Port13

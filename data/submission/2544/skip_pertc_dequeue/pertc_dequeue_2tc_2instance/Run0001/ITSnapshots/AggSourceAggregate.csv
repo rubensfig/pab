@@ -1,0 +1,5 @@
+Trial,Framesize,Iteration,Tx Port,Rx Port,Traffic Item,IPv4 :Raw priority,Flow Group,Tx Rate (% Line Rate),Rx Throughput (% Line Rate),Rx Throughput (fps),Rx Throughput (Mbps),Tx Count (frames),Rx Count (frames),Frame Loss (frames),Frame Loss (%),Min Latency (ns),Max Latency (ns),Avg Latency (ns)
+3,1518,9,Port 1,Port 1,HQoS Traffic,0x0,HQoS Traffic-cpu0-flow0-hp - Flow Group 0001,25.0000000,25.0000000,2031859.6014346,24674.9029998,119879714,119879714,0,0.0000000,33142,69800,45875
+3,1518,9,Port 1,Port 1,HQoS Traffic,0x0,HQoS Traffic-cpu1-flow0-hp - Flow Group 0001,25.0000000,25.0000000,2031859.6846031,24674.9040098,119879714,119879714,0,0.0000000,32830,92752,45894
+3,1518,9,Port 1,Port 1,HQoS Traffic,0x1,HQoS Traffic-cpu0-flow0-lp - Flow Group 0001,25.0000000,25.0000000,2031859.0858934,24674.8967391,119879714,119879714,0,0.0000000,33040,70100,46090
+3,1518,9,Port 1,Port 1,HQoS Traffic,0x1,HQoS Traffic-cpu1-flow0-lp - Flow Group 0001,25.0000000,25.0000000,2031859.1784635,24674.8978633,119879714,119879714,0,0.0000000,33322,92625,45962

@@ -1,0 +1,2 @@
+Port Name,Assigned To,Tx Mode,Speed (Mbps),Card Type,IxOS Version
+Port 1,172.30.20.132;05;13,Interleaved,100000,NOVUS25/10GE8SFP28+100G+50G,IxOS 9.30.3001.33 Patch1
